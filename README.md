@@ -3,7 +3,7 @@
 I'm a software developer wanting to learn new languages and technologies
 
 - 🔭 I’m currently working on **Java** and **PostgreSQL**
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and very soon I will be learning **Reactjs**
 - 🚀 I’m looking to collaborate on open source projects.
 - 😄 Pronouns: he/him.
 
