@@ -3,7 +3,7 @@
 I'm a software developer wanting to learn new languages and technologies
 
 - 🔭 I’m currently working on **Java**
-- 🌱 I’m currently learning **git**
+- 🌱 I’m currently learning **git** and gitflows
 - 🚀 I’m looking to collaborate on open source projects.
 
 **Languages and Tools:**  
