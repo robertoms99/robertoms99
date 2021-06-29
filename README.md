@@ -10,8 +10,8 @@ I'm a software developer wanting to learn new languages and technologies
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="20"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="20"/></code>
 
 **Tools:**
