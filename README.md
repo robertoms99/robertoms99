@@ -2,8 +2,8 @@
 
 I'm a software developer wanting to learn new languages and technologies
 
-- 🔭 I’m currently working on **Java**
-- 🌱 I’m currently learning task runners and bundlers
+- 🔭 I’m currently working on personal projects and portfolio
+- 🌱 I’m currently learning Reactjs
 - 🚀 I’m looking to collaborate on open source projects.
 
 **Languages:**  
