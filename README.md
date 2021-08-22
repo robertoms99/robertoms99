@@ -3,7 +3,7 @@
 I'm a software developer wanting to learn new languages and technologies
 
 - 🔭 I’m currently working on personal projects and portfolio
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs and all about web accessibility
 - 🚀 I’m looking to collaborate on open source projects.
 
 **Languages:**  
