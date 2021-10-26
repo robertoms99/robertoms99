@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hola 👋
 
-I'm a software developer wanting to learn new languages and technologies
+Soy un software developer que le gusta aprender nuevos lenguajes y tecnologias
 
-- 🔭 I’m currently working on my personal projects and portfolio
-- 🌱 I’m currently learning advanced Redux, all about ReactJS ecosystem and design patterns
-- 🚀 I’m looking to collaborate on open source projects.
+- 🔭 Actualmente estoy trabajando en mi portafolio y en proyectos personales.
+- 🌱 Me encuentro aprendiendo Redux avanzado, todo sobre el ecosistema ReactJS y los patrones de diseño.
+- 🚀 Busco colaborar en grandes proyectos para seguir creciendo
 
-**Technologies:**  
+**Tecnologias:**  
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="20"/></code>
@@ -15,6 +15,6 @@ I'm a software developer wanting to learn new languages and technologies
 <code><img src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" height="20"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height="20"/></code>
 
-**Tools:**
+**Herramientas:**
 
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="20"/></code>
