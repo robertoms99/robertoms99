@@ -2,8 +2,8 @@
 
 Soy un software developer que le gusta aprender nuevos lenguajes y tecnologias
 
-- 🔭 Actualmente estoy trabajando en mi portafolio y en proyectos personales.
-- 🌱 Me encuentro aprendiendo Redux avanzado, todo sobre el ecosistema ReactJS y los patrones de diseño.
+- 🔭 Actualmente estoy trabajando en mi portafolio y en proyectos personales
+- 🌱 Me encuentro aprendiendo module bundlers y todo sobre el ecosistema de frontend moderno 
 - 🚀 Busco colaborar en grandes proyectos para seguir creciendo
 
 **Tecnologias:**  
